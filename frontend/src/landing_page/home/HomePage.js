@@ -11,7 +11,6 @@ import Hero from "./Hero";
 function HomePage() {
   return (
     <>
-      <Navbar />
       <Hero />
 
       <Awards />
@@ -20,7 +19,6 @@ function HomePage() {
 
       <Education />
       <OpenAccount />
-      <Footer />
     </>
   );
 }
