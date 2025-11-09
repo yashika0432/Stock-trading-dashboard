@@ -2,6 +2,7 @@ import React, { PureComponent } from "react";
 import Hero from "./Hero";
 import LeftSection from "./LeftSection";
 import Rightsection from "./RightSection";
+import Universe from "./Universe";
 
 function Products() {
   return (
@@ -49,6 +50,11 @@ function Products() {
         googlePlay=""
         appStore=""
       />
+      <p className="text-center fs-5 mt-5 ">
+        Want to know more about our technology stack? Check out the Zerodha.tech
+        blog.
+      </p>
+      <Universe />
     </>
   );
 }
