@@ -6,7 +6,6 @@ function About() {
   return (
     <>
       <Hero />
-      <Team />
     </>
   );
 }
