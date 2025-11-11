@@ -1,7 +1,14 @@
 import React, { PureComponent } from "react";
+import Hero from "./Hero";
+import Ticket from "./CreateTicket";
 
 function Support() {
-  return <h1>Support</h1>;
+  return (
+    <>
+      <Hero />
+      <Ticket />
+    </>
+  );
 }
 
 export default Support;
