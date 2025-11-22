@@ -4,11 +4,16 @@ const express = require("express");
 const mongoose = require("mongoose");
 const { HoldingsModel } = require("./models/HoldingsModel");
 const { PositionsModel } = require("./models/PositionsModel");
+const bodyparser = require("body-parser");
+const cors = require("cors");
 
 const PORT = process.env.PORT || 3002;
 const uri = process.env.MONGO_URL;
 
 const app = express();
+
+app.use(cors());
+app.use(bodyparser.json());
 
 // app.get("/addHoldings", async (req, res) => {
 //   let tempHoldings = [
@@ -173,6 +178,11 @@ const app = express();
 //   });
 //   res.send("done");
 // });
+
+app.get("/allHoldings", async (req, res) => {
+  let allHolding = await HoldingsModel.find({});
+  res.json(allHolding);
+});
 
 app.listen(PORT, () => {
   console.log("app started");
