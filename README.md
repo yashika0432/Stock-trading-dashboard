@@ -43,4 +43,12 @@ The goal was to understand how financial dashboards are designed and built.
 4. Run the app
    ```npm run dev```
 
+---
+
+## 🎯 Learning Goals
+This project helps you understand:
+- Building complex UI dashboards
+- Managing application state in React
+- Working with financial data
+- Designing real-world applications
 
