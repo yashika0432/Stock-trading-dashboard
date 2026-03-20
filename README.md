@@ -24,3 +24,13 @@ The goal was to understand how financial dashboards are designed and built.
 - 🧾 Order panel UI (Buy/Sell simulation)
 - 🔍 Search stocks functionality
 - 📱 Responsive dashboard layout
+
+---
+
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+
+---
+
+
