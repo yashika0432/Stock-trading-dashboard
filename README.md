@@ -33,4 +33,14 @@ The goal was to understand how financial dashboards are designed and built.
 
 ---
 
+## 🚀 Installation
+1. Clone the repository
+   ```git clone https://github.com/yourusername/stock-dashboard.git```
+2. Navigate to project
+   ```cd Stock-trading-dashboard```
+3. Install dependencies
+   ```npm install```
+4. Run the app
+   ```npm run dev```
+
 
