@@ -1,0 +1,16 @@
+## Stock Trading Dashboard (Zerodha Clone)
+A modern stock trading dashboard inspired by Zerodha built using React.
+This project replicates core UI and functionality of a trading platform, focusing on real-time data visualization, dashboard design, and state management.
+
+---
+
+## 📌 About the Project
+This project is a frontend clone of Zerodha’s trading dashboard, designed to simulate a real-world stock trading interface.
+
+It showcases:
+- 📊 Interactive stock data display
+- 📈 Dashboard-style UI similar to trading platforms
+- ⚛️ Component-based architecture using React
+- 🔄 Dynamic data rendering
+
+The goal was to understand how financial dashboards are designed and built.
