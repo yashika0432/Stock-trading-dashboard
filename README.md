@@ -14,3 +14,13 @@ It showcases:
 - 🔄 Dynamic data rendering
 
 The goal was to understand how financial dashboards are designed and built.
+
+---
+
+## ✨ Features
+- 📊 Live or simulated stock price display
+- 📉 Portfolio overview
+- 📈 Charts and analytics (basic)
+- 🧾 Order panel UI (Buy/Sell simulation)
+- 🔍 Search stocks functionality
+- 📱 Responsive dashboard layout
