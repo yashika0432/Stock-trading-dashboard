@@ -35,7 +35,7 @@ The goal was to understand how financial dashboards are designed and built.
 
 ## 🚀 Installation
 1. Clone the repository
-   ```git clone https://github.com/yourusername/stock-dashboard.git```
+   ```git clone https://github.com/yashika0432/Stock-trading-dashboard```
 2. Navigate to project
    ```cd Stock-trading-dashboard```
 3. Install dependencies
